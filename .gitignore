@@ -1,3 +1,4 @@
 *.log
 .rvmrc
 config/deploy.rb
+tmp/*.*

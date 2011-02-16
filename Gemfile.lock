@@ -8,6 +8,7 @@ GEM
       net-sftp (>= 2.0.0)
       net-ssh (>= 2.0.14)
       net-ssh-gateway (>= 1.0.0)
+    fastercsv (1.5.4)
     highline (1.6.1)
     monkey-lib (0.5.4)
       backports
@@ -39,5 +40,6 @@ PLATFORMS
 
 DEPENDENCIES
   capistrano
+  fastercsv
   sinatra
   sinatra-reloader
